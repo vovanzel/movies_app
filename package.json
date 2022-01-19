@@ -39,6 +39,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "eslint": "^5.16.0",
+    "gh-pages": "^3.2.3",
+    "mini-css-extract-plugin": "2.4.5"
   }
 }
